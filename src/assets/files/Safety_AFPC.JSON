@@ -1,0 +1,585 @@
+{
+    "pages": [
+      {
+        "title": "Backroom",
+        "sections": [
+
+        {
+        "subtitle": "Stock Stacking",
+        "questions": [
+          {
+            "text": "a) Stock Arrangement should not be more than 10 ft height as under FMA 1967 Regulation 12, more 10 ft height, staff need to use rope or safety harness to climb the ladder. Signage available to show the limit (string, tape, color spray or paint).",
+            "type": "yesno"
+          },
+          {
+            "text": "b) OSHA guideline recommends the gap between inventory and water sprinklers, workplace roof, roof beams or light fittings and water sprinklers must be at Least 1m of clear space.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Heavy  items and unstable items must place below of stacking or racking.",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {  
+        "subtitle": "Safe Step Ladders",
+        "questions": [
+          {
+            "text": "a) All staffs working  in storage area must use safe ladders (below 10 ft of height only). Above 10 ft, TRAINED STAFF need to use stacker or reach truck to take the good) - FMA 1967 Regulation 12. No climbing or hanging, no standing on racking, gondola, DDT or kawajun trolley and  merchandise.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) No broken ladder to be used at storage and back alley (damage ladders must be disposed or locked).",
+            "type": "yesno"
+          }
+        ]
+        },
+        
+        {
+        "subtitle": "Backroom Walkaway",
+        "questions": [
+          {
+            "text": "a) Walkaway surface must be in safe condition (no damage floor, no uneven floor, not wet surface, , not blocking walkaway). If surface not safe, signage must be put in place for communicate purpose.",
+            "type": "yesno"
+          }
+          ]
+        },
+        
+        {
+          "subtitle": "Blockage of Fire Equipment and Emergency Route",
+          "questions": [
+          {
+            "text": "a) Fire Exit Door, Fire Equipment, Emergency walkaway or stairs or route must not block by stocks, asset or tools at all time.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Manual Lifting Method",
+          "questions": [
+          {
+            "text": "a) All staff must practise proper lifting method. Poster of proper lifting method must available at storage area.",
+            "type": "yesno"
+          }
+          ]
+        },
+        
+        {
+          "subtitle": "Lighting",
+          "questions": [
+          {
+            "text": "a) Storage area must be bright to do work (all lighting bulb must be functioning and no dim light) except for lighting using timer for energy saving purpose.",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Safety Boots",
+          "questions": [
+          {
+            "text": "a) All staff that working at backroom area and invlove with heavy machinery or heavy items must wear safety boots.",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Evacuation Layout",
+          "questions": [
+          {
+            "text": "a) Emergency Evacuation Plan paste at storage area (minimum 2 at every storage level and can easily be seen.",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Cold Room",
+          "questions": [
+          {
+            "text": "a)  Emergency door knob inside cold room must be functioning.  Cold Safety Poster must be pasted at every cold door and all staff must follow the safety procedure as per poster.",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Electrical Use",
+          "questions": [
+          {
+            "text": "a)  Electrical device or tools must in safe condition (wiring  not tangled, not damage), not have multiple extension socket and no non-SIRIM tools use. Electrical cable must be secure with tape or half moon casing to prevent any trip and fall.",
+            "type": "yesno"
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "Staff Facilities",
+        "sections": [
+
+        {
+          "subtitle": "Toilet",
+          "questions": [
+          {   
+            "text": "a) Toilet must be in safe condition (safe surface, lighting function and emergency contact available).",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Surau",
+          "questions": [
+          { 
+            "text": "a) Surau must be in safe condition (safe surface, lighting function and emergency contact available).",
+            "type": "yesno"
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "Production Area",
+        "sections": [
+
+        {
+          "subtitle": "Lifting Method",
+          "questions": [
+          {   
+            "text": "a) All staff must practise proper lifting method.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Production Floor",
+          "questions": [
+          {   
+            "text": "a) Walkway surface must be in safe condition (no damage floor, no uneven floor, not wet surface, not blocking walkway).",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Electrical Use",
+          "questions": [
+          {   
+            "text": "a) Electrical device or tools must in safe condition (wiring  not tangled, not damage) not have multiple extension socket and no non-SIRIM tools use. Electrical cable at event must be secure with tape or half moon casing to prevent any trip and fall.",
+            "type": "yesno"
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Evacuation Layout",
+          "questions": [
+          {   
+            "text": "a) Emergency Evacuation Plan paste at selling area (minimum 2 at every sales floor level and can easily be seen).",
+            "type": "yesno"
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "MMD or RY Area",
+        "sections": [
+
+        {
+          "subtitle": "Forklift",
+          "questions": [
+          {   
+            "text": "a) Forklift to be operated by trained and authorized staff. A copy of their training document are to be kept in MMD/RY/HR office.",
+            "type": "yesno"
+          },
+          {   
+            "text": "b) Forklift handler must wear safety vest. Forklift key must not be left at Forklift to avoid any unauthorised used.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Forklift(Safety Helmet)",
+          "questions": [
+          {   
+            "text": "a) If there are construction at the surrounding area or forklift without proper roof, it is a must for anyone working outside with forklift to wear safety helmet.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Safety Boots",
+          "questions": [
+          {   
+            "text": "a) All staff that working at MMD or RY area and invlove with heavy machinery or heavy items must wear safety boots.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Blockage of Fire Equipment and Emergency Route",
+          "questions": [
+          {   
+            "text": "a) Fire Exit Door, Fire Equipment, Emergency walkaway/stairs/route must not block by stocks, asset or tools at all time.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Lifting method",
+          "questions": [
+          {   
+            "text": "a) All staff must practise proper lifting method. Poster of proper lifting method must available at MMD area.",
+            "type": "yesno"
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Gas Safety",
+        "sections": [
+
+        {
+          "subtitle": "Kitchen",
+          "questions": [
+          {   
+            "text": 
+              "a) Gas piping must be in good condition (no rust, handing object, no gas leaking or smell). Domestic LPG gas not allowed at any kitchen.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Gas Storage",
+          "questions": [
+          {   
+            "text": [
+              "a) LPG storage room or area must be lock at all time and in good condition (no rust, handing object, no gas leaking or smell).",
+              "b) Gas detector system (if any).",
+              "c) Valid license of Gas must be kept at mall office."
+            ],
+            "type": "yesno"
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Fire Safety",
+        "sections": [
+
+        {
+          "subtitle": "Fire Equipment Layout",
+          "questions": [
+          {   
+            "text": 
+              "a) The location of all Fire Equipment must properly stated in Emergency layout.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Equipment Validity",
+          "questions": [
+          {   
+            "text": 
+              "a) All Fire extinguisher must valid (not expired).",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Equipment Servicing",
+          "questions": [
+          {   
+            "text": 
+              "a) All fire equipment must be service on quarterly basis.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Extinguisher",
+          "questions": [
+          {   
+            "text": [
+              "a) All fire extinguisher must be in condition:",
+              "i. Pressure in green area  (pressure gauge)",
+              "ii. Not place directly on the floor",
+              "iii. All part of on fire extinguisher is complete (nozzle, seal, safety pin, box key [if any])",
+              "b) Signage and the cabinet key must be available near the hose reel."
+            ],
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Hose Reel",
+          "questions": [
+          {   
+            "text": 
+              "a) Hose reel must be in good condition and complete. Signage and the cabinet key must be available near the hose reel.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "PA System",
+          "questions": [
+          {   
+            "text": 
+              "a) Sound system must can be heard at all area in backroom and sales floor.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Exit Door",
+          "questions": [
+          {   
+            "text": 
+              "a) Fire exit door must be good condition (can easily open, with exit signage, door knob available). Fire Exit Door must be unlocked  during operation hours.",
+            "type": "yesno"
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Chemical",
+        "sections": [
+
+        {
+          "subtitle": "Personal Protective Equipment (PPE)",
+          "questions": [
+          {   
+            "text": 
+              "a) PPE must be available at the mixing area, cleaning area and storage (mask, glove, goggle and apron).",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Storage Area",
+          "questions": [
+          {   
+            "text": 
+              "a) Storage room must be lock and not mixed with consumable items.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Chemical Related Document",
+          "questions": [
+          {   
+            "text": [
+              "a) Safety manual must be available near storage and cleaning area for easy reference:",
+              "i. Chemical Safety Data Sheet (CSDS)",
+              "ii. Chemical Register",
+              "iii.  Chemical Usage Manual",
+              "iv. Safety Signage",
+              "v. Chemical Label",
+              "b) Chemical Hazard Risk Assessment (CHRA) must be available at store or mall."
+            ],
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Safety Signage (Cleaning)",
+          "questions": [
+          {   
+            "text": 
+              "a) Cleaner must place a safety signage whenever they do cleaning in sales floor and storage.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Chemical Storage",
+          "questions": [
+          {   
+            "text": 
+              "a) Chemical must be place inside chemical grade container (mineral water bottle is stricly not allowed).",
+            "type": "yesno"
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Documentation",
+        "sections": [
+
+        {
+          "subtitle": "Health, Safety & Environment (HSE) Policy",
+          "questions": [
+          {   
+            "text": 
+              "a) HSE Policy must be available at Staff Entrance, Information Board & Management Office.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "OSH File",
+          "questions": [
+          {   
+            "text": [
+              "a) Safety file must be devided with below information:",
+              "i. OSH Committee Organization Chart",
+              "ii. LOA of OSH Committee Member",
+              "iii. Document of Quarterly OSH Committee Meeting (Agenda, , Minutes of  Meeting, Meeting Attendance, Workplace Inspection) - with complete signature of Chairman, Vice Chairman and Secretary)."
+               ],
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "OSH Meeting",
+          "questions": [
+          {   
+            "text": 
+              "a) Safety Meeting must be conducted every 3 month (compulsory). The meeting attendance must above 50% of total OSH Committee Member (Store and Mall). Workplace inspection must be conducted before OSH Committee Meeting.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Accident File",
+          "questions": [
+          {   
+            "text": [
+              "a) Accident file must be arrange by month and year. Each accident must have complete document as follow - Incident Report (Japan Format) ",
+              "b) Summary of 'Laporan Kemalangan dan Kejadian Bahaya'. Summary of accident (JKKP8) - every year."
+            ],
+            "type": "yesno"
+          },
+          {   
+            "text": [
+              "c) Accident involve JKKP6 (MC more than 4 days) - If any. Each accident involve JKKP6 (MC more than 4 days must have complete documents as follow:",
+              "i. Incident Report (Japan Format)",
+              "ii. Security 'Laporan Kemalangan dan Kejadian Bahaya'",
+              "iii. JKKP9 - Data of Accident",
+              "iv. Incident Statement Form (Witness or Victim)",
+              "v. Minutes of Meeting",
+              "vi. Meeting Attendance",
+              "vii. Investigation Form",
+              "viii. JKKP6",
+              "x. Medical Leave or medical Report"
+            ],
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Emergency Information",
+          "questions": [
+          {   
+            "text": 
+              "a) Updated Emergency Contact(Police, Bomba)  must be pasted at Information Board and Staff Entrance. Latest Emergency Response Team (ERT) Organization Chart must be paste at Information Board and Staff Entrance.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Certificate",
+          "questions": [
+          {   
+            "text": 
+              "a) Must kept the original copy of valid Fire Certificate in Mall Office.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Training (For Standalone Store only)",
+          "questions": [
+          {   
+            "text": 
+              "a) Must organize Fire Training once a year. Every training must have training attendance and picture of training.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Visitor Registration",
+          "questions": [
+          {   
+            "text": 
+              "a) Visitor, supplier, contractor and non-permanent promoter must register when they enter the premises. Visitor, supplier, contractor must follow proper attire as per foster (poster must be paste at entrance).",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Work Permit",
+          "questions": [
+          {   
+            "text": 
+              "a) All contractor must fill up work permit completely before start working in premises. A copy of work permit should be kept at security to verify the contractor that come in.",
+            "type": "yesno"
+          }
+        ]
+        },
+
+        {
+          "subtitle": "No Smoking Poster",
+          "questions": [
+          {   
+            "text": [
+              "a) No smoking poster must be paste at below area:",
+              "i. Toilet",
+              "ii. Resting area",
+              "iii. Loading Bay (Outside & Inside)",
+              "iv. Staircase",
+              "v. All Technical room including LPG Room",
+              "vi. Walkaway"
+            ],
+            "type": "yesno"
+          }
+        ]
+        }
+      ]
+    }
+  ]
+}
+  

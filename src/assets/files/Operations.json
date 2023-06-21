@@ -1,0 +1,288 @@
+{
+    "pages": [
+      {
+        "title": "Customer Service; 1. Customer Service",
+        "questions": [
+          {
+            "text": "a) Staff attire and appearance:",
+            "type": "yesno",
+            "options": [
+                "i. All staff in uniforms, proper grooming and attires.",
+                "ii. All staff with proper ID (no faded ID)."
+              ]
+          },
+          {
+            "text": "b) Greeting:",
+            "type": "yesno",
+            "options": [
+                "i. Greet customer on selling floor, e.g. 'Good morning.', 'Selamat Datang.';when meeting customer on floor.",
+                "ii. Greet customer at cashier counter, e.g. 'Good morning.','Hi,can I assist you?' when meeting customer at POS.",
+                "iii. Exit greeting at selling floor: 'Thank you, please come again.' when customer leaving shop."
+              ]
+          },
+          {
+            "text": "c) Offering basket and help or advise:",
+            "type": "yesno",
+            "options": [
+                "i. To offer basket with polite eye contact and smile to walked-in customer.",
+                "ii. To offer help to customer, e.g. 'Boleh saya bantu?','How may I help you?' at the selling floor."
+              ]
+          },
+          {
+            "text": "d) Good cashier practice:",
+            "type": "yesno",
+            "options": [
+                "i. Cashier counter: cashier promote PWP or suggestive selling.",
+                "ii. Smile with friendly eye contact, giving product or change or card with both hands.",
+                "iii. Cashier available at POS within 5 seconds to show clearly URGENCY to clear customer queue.",
+                "iv. Exit greeting at POS <em>(Thank you, please come again and smile)"
+              ]
+          },
+          {
+            "text": "e) Behaviour:",
+            "type": "yesno",
+            "options": [
+                "i. No chit chatting or using handphone at selling floor.",
+                "ii. Availability of staff at selling floor.",
+                "iii. Music is on (in GMS, GMS music is counted)."
+              ]
+          },
+          {
+            "text": "f) Extra efforts:",
+            "type": "yesno",
+            "options": [
+                "i. Cashier counter: cashier requested AMPC/e-Wallet from customer for member point collection.",
+                "ii. Daily customer index collection on-going, to refer last month collection as reference. *AMPC: Scoring = 2 if only ask AMPC from customer for point collection, scoring = 3 if offering customer to subscribe AMPC, for customer without AMPC (extra miles).",
+                "iii. Music is on (in GMS, GMS music is counted)."
+              ]
+          },
+          {
+            "text": "Issues to Follow Up",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Trading Floor Standard; 2. Cleanliness",
+        "questions": [
+          {
+            "text": "a) Clean, neat, tidy, free from food, drink, dust, debris, marks, cartons or any unused fictures:",
+            "type": "yesno",
+            "options": [
+                "i. Glass panel.",
+                "ii. Shelves.",
+                "iii. Cosmetic counter.",
+                "iv. Block stacks, black metal standee, standees.",
+                "v. Products.",
+                "vi. Floor.",
+                "vii. Cashier counter.",
+                "viii. Pharmacy counter/BA counter."
+              ]
+          }
+        ]
+      },
+      {
+        "title": "3. Product Display",
+        "questions": [
+          {
+            "text": "a) Correct POSM usage:",
+            "type": "yesno",
+            "options": [
+                "i. Gondola and GE (A7 MUST BUY at left most of each PROMO GE).",
+                "ii. Standee and mobile netting (A5 POP, A4 slot-in and A7 HOT).",
+                "iii. Wall counter (A5 POP and price cards).",
+                "iv. BA counter: front display complete with hampers with POSM.",
+                "v. POS counter display (A7 HOT for suggestive selling and TV range as per list; A7 PWP for PWP).",
+                "vi.  Wall counter (A5 POP and price cards)Price cards display at left hand side of item."
+              ]
+          },
+          {
+            "text": "b) Correct price display:",
+            "type": "yesno",
+            "options": [
+                "i. MBB (randomly check system price vs price card/POSM of 30 SKUs, not included WES)."
+              ]
+          },
+          {
+            "text": "c) Display standard:",
+            "type": "yesno",
+            "options": [
+                "i. Stock display at acceptable quantity, presentable at promotion display area e.g. GE or standee (no low stocks level).",
+                "ii. TV range no OSS for mineral water, F/cotton TP, baby wipes, anti-bacteria wipes, hand wash.",
+                "iii. Physical OOS 10 locations when OOS report not available.",
+                "iv. FIFO - short expiry to be infront (random check 20 SKUs)."
+              ]
+          },
+          {
+            "text": "d) Hygiene Management:",
+            "type": "yesno",
+            "options": [
+                "i. All used basket being sanitised BEFORE USED.",
+                "ii. All WORK STATION being sanitised 3X DAILY (prior opening, mid0shift sign-in, before 1st shift sign-off).",
+                "iii. All cartons and stocks received, sanitised before proceed for receiving.",
+                "iv. All staffs or pormoters registered AEON COVID form and My Sejahtera prior commence duty by daily."
+              ]
+          }
+        
+        ]
+      },
+      {
+        "title": "4. Maintenance (selling floor area free from maintenance issue, with MRF issued and follow up)",
+        "questions": [
+          {
+            "text": "i. Ceiling light, signage light all working. If not, MRF.",
+            "type": "yesno"
+          },
+          {
+            "text": "ii. Gondola light, wall counter light all working. If not, MRF.",
+            "type": "yesno"
+          },
+          {
+            "text": "iii. CCTV video not loss. If not, MRF.",
+            "type": "yesno"
+          },
+          {
+            "text": "iv. Ceiling (leaking, flaking, color staining). If any, MRF.",
+            "type": "yesno"
+          },
+          {
+            "text": "v. Music player in good condition, working and acceptable volume.",
+            "type": "yesno"
+          },
+          {
+            "text": "vi. DTV in good condition and display current promotion.",
+            "type": "yesno"
+          },
+          {
+            "text": "vii. Price checker functioning.",
+            "type": "yesno"
+          },
+          {
+            "text": "Issues to Follow Up",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Backroom and Storage Management; 5. Storage of Excess",
+        "questions": [
+          {
+            "text": "i. Each rack to label with DIVISION.",
+            "type": "yesno"
+          },
+          {
+            "text": "ii. Storage area is accessible ALWAYS to reach STOCKS.",
+            "type": "yesno"
+          },
+          {
+            "text": "iii. NO MULTI-LOCATION storage.",
+            "type": "yesno"
+          },
+          {
+            "text": "iv. All non-sellable or return stocks are properly stored and labelled.",
+            "type": "yesno"
+          },
+          {
+            "text": "v. Monthly expiry check complete with *Marked Layout. 1 month, 1 layout (Backroom + Selling floor)",
+            "type": "yesno"
+          },
+          {
+            "text": "Issues to Follow Up.",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Office Management; 6. Office Area",
+        "questions": [
+          {
+            "text": "i. Neat and tidy (no food, dirt, rubbish or dust).",
+            "type": "yesno"
+          },
+          {
+            "text": "ii. No selling stocks or PA items inside back office.",
+            "type": "yesno"
+          },
+          {
+            "text": "iii. All shop keys available (keys for safe, shutter, office door, POS drawer, all drawers in shop).",
+            "type": "yesno"
+          },
+          {
+            "text": "iv. Office door always locked or closed (access only limit to management).",
+            "type": "yesno"
+          },
+          {
+            "text": "v. Shop main switch correctly labelled with color code for switching time",
+            "type": "yesno"
+          },
+          {
+            "text": "Issues to Follow Up",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Admin; 7. Documentation",
+        "questions": [
+          {
+            "text": "a) License:",
+            "type": "yesno",
+            "options": [
+                "i. Biz license not expired (please state the expiration date in the remarks tab).",
+                "ii. Fire extinguisher license not expired (please state the expiration date in the remarks tab).",
+                "iii. Sales license displayed at the designated area."
+              ]
+          },
+          {
+            "text": "b) Monthly Activities:",
+            "type": "yesno",
+            "options": [
+                "i. KPI's tracker updated on daily basis, monthly basis. Latest DASHBOARD available on KPI tracker.",
+                "ii. Shop schedule - approved copy displayed visibly in office.",
+                "iii. Communication book with DWS or morning walk findings and plans - daily updated and practiced.",
+                "iv. Daily telemarketing plan, MTD count, updated daily on KPI tracker.",
+                "v. Daily delivery result review and MTD delivery result review, updated daily on KPI tracker.",
+                "vi. WB summary folder with remark and acknowledge on WB checklist (weekly basis).",
+                "vii. GRN list in weekly bulletin is attended and followed up until complete (weekly basis).",
+                "viii. MBB/Promo list - sign by shop-in-charge upon complete checking, after MBB set up.",
+                "ix. Opening or closing checklist complete daily, filed monthly once complete for the month.",
+                "x. Cleaning checklist complete daily, weekly and monthly, filed monthly once complete for the month."
+              ]
+          },
+          {
+            "text": "Issues to Follow Up",
+            "type": "text"
+          }
+        ]
+      },
+      {
+        "title": "Loss Prevention Measures; 8. Loss Prevention Measures",
+        "questions": [
+          {
+            "text": "a) Daily and weekly checking:",
+            "type": "yesno",
+            "options": [
+                "i. Cash register - spot check by shop management on weekly basis.",
+                "ii. Weekly Top 50 high loss check, complete with rectification.",
+                "iii. Weekly CCTV view by shop PIC with comments.",
+                "iv. Weekly locker spot check, completed.",
+                "v. Declaration book for every in or out from shop.",
+                "vi. Daily screening for all staffs and promoters are completely carried out prior  shift commence.",
+                "vii. Body frisk done for every exit of staffs, promoters, merchandisers.",
+                "viii. Daily pedestal check, completed.",
+                "ix. Opening or closing checklist complete daily, filed monthly once complete for the month.",
+                "x. Cleaning checklist complete daily, weekly and monthly, filed monthly once complete for the month."
+              ]
+          },
+          {
+            "text": "Issues to Follow Up.",
+            "type": "text"
+          }
+        ]
+      }
+
+   
+
+
+    ]
+  }

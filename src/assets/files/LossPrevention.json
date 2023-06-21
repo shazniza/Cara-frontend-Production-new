@@ -1,0 +1,261 @@
+{
+    "pages": [
+      {
+        "title": "Backroom Stock Management",
+        "questions": [
+          {
+            "text": "a) Cartons are properly segregated and labelled by Division or brand and item description including original cartons(exception to visible cartons e.g mineral water). (Note: good stocks by Div, GRN, PA Zero, GTN, FOC etc).",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Cartons must be neatly arranged or stacked, without blocking walkway, entrance or emergency exit.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Shop to use racking to display the excess stock in the backroom (except cosmetic and loose items that can store in carton separately use plastic bag and mark with SKU's Number).",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "Direct Deliveries",
+        "questions": [
+          {
+            "text": "a) All invoices updated in PROFIT on receiving day before 8pm and driver to sign off RECEIVING NOTE except courier. For courier, must attach with courier slip as proof. Refer to receiving note printing date and time as verification, to verify transporter full name, I/C detail, vehicle no, date.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) No supplier delivery during peak hours except DC and Courier (Note: 12pm-2pm and after 6pm).",
+            "type": "yesno"
+          },
+          {
+            "text": "c) All receivings must be checked and signed by management and witnessed on 'Delivery Order' and 'RN' on the spot. together with staff Info. Transporter to be available during receiving process.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "GTN from Other Shops",
+        "questions": [
+          {
+            "text": "a) All GTN must be approved by AM via email or WhatsApp and attached the email or WhatsApp chat to the GTN. All boxes to be seal during transit to shop. SMRS to attached to GTN In, as well.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) All GTN must signed by management and a staff (witness) on the same day (receiving day).",
+            "type": "yesno"
+          },
+          {
+            "text": "c) All copy must have management and staff full name, staff id no., date and sign.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) All GTN must be closed within 2 weeks from the date raise . Confirm in PROFIT upon collection on the same day. Guideline : Refer to the GTN in hardcopy. Management and witness must sign on shop stamp.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Any descrepancy on receiving eg: shortages, damaged & expired must be communicated & emailed to sending shops (cc: AM & LPIM) within 24 hours from receiving time. SM must do follow up action with sending shop and get any disputes resolved within 3 days. File the communication email with GTN copy.",
+            "type": "yesno"
+          }
+        
+        ]
+      },
+      {
+        "title": "GTN Out to Other Shops",
+        "questions": [
+          {
+            "text": "a) Outgoing GTN checked and signed by management and a staff (witness) on the same day with full details eg. Full name, staff ID number and date.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) All stocks must be moved using boxes with AEON seal except for bulky item such as umbrella. All GTN must be approved by AM via email or WhatsApp and attached the email or WhatsApp chat to the GTN. Sign on outgoing SMRS (Stocks Movement Record Sheet) -(New) with transporter details such as transporters signature, full name, full ic no, date and Car no. Shop management needs to verify the details are correct before release.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) All GTN must be closed within 2 weeks from the date raise. Confirm in PROFIT upon collection on the same day. Guidance: Refer to GTN file and log book. All copy must have management and staff full name, staff ID number, date and sign.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "Return to Vendor (RTV)",
+        "questions": [
+          {
+            "text": "a) Outgoing RTVs checked & signed by management and a staff (witness) on the same day with full details eg. Full name, staff ID number and date.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Acknowledgement by transporter upon collection. (Note: full name, I/C No., vehicle plat no., date)",
+            "type": "yesno"
+          },
+          {
+            "text": "c) RTV must be processed into PROFIT daily and update after supplier collection. All cartons must be label with RTV note (Blue color A4). All RTV must be return within 1 month from creation date. SM to follow up with supplier for immediate collections.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "PA Zero Disposal",
+        "questions": [
+          {
+            "text": "a) PA Zero must be processed into PROFIT, if any. List down summary in excel and email to AM's. Summary in excel must be attached together with PA Zero slips.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) All disposals of PA stocks must be with approval and witnessed by Area Manager (AM Signature available). For (special case due to MCO) Pictures of products to disposal to email to AM's for approval. AM's Approval email + Picture to attached together with PA Zero Slips for verifying.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) All PA Zero to be disposed within 30 days from date created.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "Cashier POS Transactions",
+        "questions": [
+          {
+            "text": "a) POS counter must be manned at all times. Cash drawers must closed at all times when not in use. (Note: Cashier to log out if has to leave). No one is allow to operate others people Cash Register.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) 100% scanning and accuracy by cashier (Observation).",
+            "type": "yesno"
+          },
+          {
+            "text": "c) No rejected products piled up at counter. (Note: To re-display at selling floor regularly). Guidance: Management to instruct staff re-display at selling floor after void for cashier.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) No calculator near the cashier counter.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Is there any barcodes or Sku info sticks on the cashier counter? If yes, record in Non-Scanable Item List (New) and remove immediately. (Email to Merchandiser for action)",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Pick up done at least every 2 hours or according to the pre-set amount (New), whichever come first. Pick up slip must signed by respective Management and Cashier. (External shops). Guidance: Refer to ick up file. Check pick up slip for time between pick up and amount pick up. ",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Surprise POS check must be done by management at least once per POS per day. Suprise POS Check must be signed by respective management and cashier. Closing POS check is compulsory for every cashier when close counter or handover if any. Duplication of closing POS check cannot be taken as surprise POS check.",
+            "type": "yesno"
+          },
+          {
+            "text": "h) All void transaction must be authorised and signed by respective management staff, signed off by cashier and performed in presence of customer on the spot. Guidance: Refer to Cashier Void form. Compare both original receipt and void timing.",
+            "type": "yesno"
+          },
+          {
+            "text": "i)  All void transaction must be attached 3 receipt 'Incorrect receipt, Void receipt and Correct receipt' on the void form.",
+            "type": "yesno"
+          },
+          {
+            "text": "j) Refund must be authorised by respective management staff, signed off by respective cashier and performed in presence of customer on the spot. Guidance: Refer to Refund Form and Time.",
+            "type": "yesno"
+          },
+          {
+            "text": "k) Shop Manager/ management must check and sign the refund report, Void report & Price Override report daily. Write comments if applicable. Guidance : Refer to SEITO.",
+            "type": "yesno"
+          },
+          {
+            "text": "l) Check to ensure all redeemed coupons and voucher must be crossed out as 'Redeemed'. Tear into half, half keep attached to daily sales report, another half disposed.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "Security",
+        "questions": [
+          {
+            "text": "a) Is the door to the cash office and/or storeroom locked when there is no one in the office or storeroom or counting cash?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) All items above RM30 and top 50 High Loss, to be tagged with security ultra label. If EAS tag quantity is low please notify AM (if delay inform Ops Support).",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Are all CCTV cameras operational? (if any) and monitor daily by shop manager with record book maintained with detail explanation.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Review CCTV to validate void transaction are genuine transaction by shop manager with record book maintained with detail explanation(3 sample basis per week).",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Review CCTV to validate refund being conducted in presence of customer by shop manager with record book maintained with detail explanation(3 sample basis per week).",
+            "type": "yesno"
+          },
+          {
+            "text": "f) f) Shop manager to review CCTV to ensure must have both staff and management during shop opening(2 sample basis per week). 2 people must enter shop together during opening. Guidance: Refer too CCTV Log Book, review CCTV and BOSS i Net system.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) g) Management must go out with staff together during shop closing and no one should be released early during closing.",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Check All EAS pedestal at least twice daily (AM and PM) to ensure they are in working condition. Record in EAS pedestal log book.",
+            "type": "yesno"
+          },
+          {
+            "text": "i) At least 1 staff is based at the selling floor to observe and monitor stocks from being stolen especially shop peak hours.",
+            "type": "yesno"
+          },
+          {
+            "text": "j) Surprise Lockers Check is done by Shop Manager at least twice a week to all staff on duty.",
+            "type": "yesno"
+          },
+          {
+            "text": "k) Check staff declaration book properly filled and documented with detail declaration of products and cash brought into the shop.",
+            "type": "yesno"
+          },
+          {
+            "text": "l) Body frisking must be perform to all staffs and promoters whenever they leave shop. Body frisking perform must be record in body frisking log book. Guidance: Refer to body frisking log book(new)",
+            "type": "yesno"
+          },
+          {
+            "text": "m) All staff purchase items kept in the locker must be supported with original receipt signed by management staff and declared in Staff Declaration Book. Product to be price tag with management sign and date of purchase eg. DD/MM/YY.",
+            "type": "yesno"
+          },
+          {
+            "text": "n) Perform panic button test. Is response received within specified time?(NEW)",
+            "type": "yesno"
+          }
+        ]
+      },
+
+      {
+        "title": "Cash Management",
+        "questions": [
+          {
+            "text": "a) Is the management staff proficient with the safe combination? Is the tumbler is rotated after each open? Guidance: Test by rolling the tumbler and timing the management's safe opening.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Safe float must be same with shop's pre-authorized amount. Guidance: Refer to safe check log book.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Check every shift handover and restricted to one person in-charge at each shift. Guidance: Safe check log book must signed by management and witness.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Previous days' sales collection must be same with shop sales report. Guidance: Refer to bank-in slip and daily sales report.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) All excess or shortages must declared, recorded and banked-in (Note: Be alert on high shortage or excess). Guidance: Refer to Daily Cashier Tracking Control sheet(new). ",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Bank in according to shops schedule, verify against bank-in slip and SRT log book.",
+            "type": "yesno"
+          }
+        ]
+      }
+
+
+    ]
+  }

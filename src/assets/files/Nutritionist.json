@@ -1,0 +1,178 @@
+{
+    "pages": [
+      {
+        "title": "1. Beauty Advisor On-Duty",
+        "questions": [
+          {
+            "text": "a) Nutritionist appearance is clean, neat and tidy.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Wears formal office wear with closed toe shoes.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Wears clean and ironed white coat and Health Service badge.",
+            "type": "yesno",
+            "options": [
+              "Yes",
+              "No"
+            ]
+          }
+        
+        ]
+      },
+      {
+        "title": "2. Pharmacy or Nutrition Counter or Signage and Display",
+        "questions": [
+          {
+            "text": "a) Valid pharmacist Poison License A and Annual Retention Certificate for the premise displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Pharmacist On-Duty Name and Time Signage displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Pharmacist Signage displayed accurately and as appropriately:",
+            "type": "yesno",
+            "options": [
+                "i. Dispensing of Group Poison B, Calendar Schedule, Off- Duty, Pharmacist Out For Break.",
+                "ii. Health Consultation Poster, Health Consultation Promotion Poster."
+              ]
+          },
+          {
+            "text": "d) Poison Record Books Displayed Neatly.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Poison Dispensing Envelopes and Stickers Displayed Neatly.",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Meditag decoder displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) No display of unapproved supplier countertop or leaflets or brochures.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "3. Healthcare Showcase and Cabinet",
+        "questions": [
+          {
+            "text": "a) Kept clean at all times.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Items under healthcare department are arranged neatly according to schematic plan.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Complete price card and clearly displayed for each item (strictly no written price tags).",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Complete price tags on individual item (strictly no written price tags).",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Complete price tags on individual item (strictly no written price tags).",
+            "type": "yesno"
+          },
+          {
+            "text": "f) All near-expired or expired items.",
+            "type": "yesno",
+            "options": [
+                "i. To be removed from self and separated from other stocks and kept inside a box or area for return or PA zero."
+              ]
+          }
+        
+        ]
+      },
+      {
+        "title": "4. Counselling Room",
+        "questions": [
+          {
+            "text": "a) Kept clean and tidy at all times.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "5. Health Consultation",
+        "questions": [
+          {
+            "text": "a) All machines (LDX, Blood glucose, BP, Weighing scale) kept in good condition.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Machine daily calibration done and recorded.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Materials and Consumables is sufficient and kept neatly in container.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Customer membership record maintained.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Customer Health Check Record complete.",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Cassette stock control form updated and tally.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) General Staff Training",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "6. Beauty Advisor Behaviour",
+        "questions": [
+          {
+            "text": "a) Staff Workbook Completed and Marked.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Hard Copy of completed Training Record Form filed.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Hard Copy of completed Training Evaluation Form filed.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "7. Document",
+        "questions": [
+          {
+            "text": "a) All company SOPs (Health Consultation, General Staff Training) kept in cabinet in good condition.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "8. Nutritionist Behaviour",
+        "questions": [
+          {
+            "text": "a) Nutritionist awares of customer approaching counter and attends as soon as possible.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Nutritionist walks out of counter to serve customers as much as possible.",
+            "type": "yesno"
+          }
+        ]
+      }
+
+    ]
+  }

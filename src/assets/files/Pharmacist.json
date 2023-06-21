@@ -1,0 +1,310 @@
+{
+    "pages": [
+      {
+        "title": "1. Pharmacist On-Duty",
+        "questions": [
+          {
+            "text": "a) Pharmacist appearance is clean, neat and tidy.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Wears formal office wear with closed toe shoes.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Wears clean white coat and pharmacist badge.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "2. Pharmacy or Nutrition Counter or Signage and Display",
+        "questions": [
+          {
+            "text": "a) Valid pharmacist Poison License A for the premise displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Valid pharmacist Annual Retention Certificate is displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Pharmacist on-duty name and time signage displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Pharmacist Signage displayed as appropriately:",
+            "type": "yesno",
+            "options": [
+                "i. Dispensing of Group Poison B",
+                "ii. Calendar Schedule",
+                "iii. Off Duty",
+                "iii. Pharmacist Out For Break(Health Consultation A4 Poster)"
+              ]
+          },
+          {
+            "text": "e) Poison record books displayed neatly.",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Poison dispensing envelopes and stickers displayed neatly.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Meditag decoder displayed.",
+            "type": "yesno"
+          },
+          {
+            "text": "h) No display of unapproved supplier countertop or leaflets or brochures.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "3. Pharmacy Showcase and  Cabinet",
+        "questions": [
+          {
+            "text": "a) Kept clean at all times.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) All poisons must be kept inside cabinets under lock and key.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Poison cabinet key must be kept with the pharmacist and not in the cabinet drawers.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Must be locked when pharmacist out for break or off-duty and no medication supplied without the presence of a licensed pharmacist for the premise in store.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Poison arranged neatly according to category",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Complete price card & clearly displayed for each poison.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Complete price tags on individual poison.",
+            "type": "yesno"
+          },
+          {
+            "text": "h) All near-expired poisons or expired poisons.",
+            "type": "yesno",
+            "options": [
+                "i. Separated from other poisons and kept inside a box in a cabinet under lock and key"
+              ]
+          },
+          {
+            "text": "i) Items stored inside poison cabinet must be neat and tidy.",
+            "type": "yesno"
+          }
+        
+        ]
+      },
+      {
+        "title": "4. Labelling of Dispensed Poisons",
+        "questions": [
+          {
+            "text": "a) Full name and address of pharmacy",
+            "type": "yesno",
+            "options": [
+                "i. Full name and address of customer",
+                "ii. Medication",
+                "iii. Date of medication supplied"
+                
+              ]
+          },
+          {
+            "text": "b) For Poison B with prescription.",
+            "type": "yesno",
+            "options": [
+                "i. Serial number of prescription in the Poison B Book, Statement : 'Controlled Medicine' or 'Ubat Terkawal'.",
+                "ii. For external use medications, Statement : 'For External Use Only or Not To Be Taken'"
+              ]
+          }
+        ]
+      },
+      {
+        "title": "5. Poison Record Books",
+        "questions": [
+          {
+            "text": "a) Poison C Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Poison B Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Prescription File",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Prescription Endorsement*",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Medication containing Codeine, Dextromethorphan, Ephedrine and Pseudoephedrine Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "f) A Medicines containing Codeine, Dextromethorphan, Ephedrine and Pseudoephedrine Book is to be checked or tallied against stock at least once a week by the pharmacist and remarked checked.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Poison Ordering Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Poison Sales Record Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "i) Customer Request Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "j) Poison Expiry or PA Zero Book Book*",
+            "type": "yesno"
+          },
+          {
+            "text": "k) Poison master list updated and neatly arranged for easy referral.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "6. Fridge",
+        "questions": [
+          {
+            "text": "a) Neat and tidy arrangement of poison.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Not used for storage of any other items other than poison.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Kept clean at all times and cleaned at least once a week.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "7. Counselling Room",
+        "questions": [
+          {
+            "text": "a) Kept clean and tidy at all times.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "8. Health Consultation",
+        "questions": [
+          {
+            "text": "a) All machines (LDX, Blood glucose, BP, Weighing scale) kept in good condition.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Machine daily calibration done and recorded.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Materials and consumables is sufficient and kept neatly in container.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Customer membership record maintained.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Customer Health Check Record complete.",
+            "type": "yesno",
+            "options": [
+                "i. Consent & Declaration Form.",
+                "ii. Result Form.",
+                "iii. Result Sticker Form."
+              ]
+          },
+          {
+            "text": "f) Cassette stock control form updated and tally.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Customer voucher redemption updated and tally.",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Health Consultation SOP is kept in cabinet and in good condition.",
+            "type": "yesno"
+          }
+        ]
+      },
+
+      {
+        "title": "9. General Staff Training",
+        "questions": [
+          {
+            "text": "a) SOP complete and kept in good condition.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Staff workbook completed and marked.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Hard copy of completed training record form filed.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Hard copy of completed training evaluation form filed.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "10. Poison Selling",
+        "questions": [
+          {
+            "text": "a) Poison purchase transactions conducted by pharmacist only.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Discounts given in accordance to Pharmacist SOP.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "11. Documents",
+        "questions": [
+          {
+            "text": "a) Pharmacist SOP signed and kept in poison cabinet in good condition.",
+            "type": "yesno"
+          }
+        
+        ]
+      },
+      {
+        "title": "12. Pharmacist Behaviour",
+        "questions": [
+          {
+            "text": "a) Pharmacist aware of customer approaching counter and attends as soon as possible.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Pharmacist walks out of counter to serve customers as much as possible.",
+            "type": "yesno"
+          }
+         
+        ]
+      }
+
+
+    ]
+  }

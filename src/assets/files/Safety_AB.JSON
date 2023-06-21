@@ -1,0 +1,935 @@
+{
+    "pages": [
+      {
+        "title": "Backroom",
+        "sections": [
+
+        {
+        "subtitle": "Stock Stacking",
+        "questions": [
+          {
+            "text": "a) Stock Arrangement should not be more than 10 ft height as under FMA 1967 Regulation 12, more 10 ft height, staff need to use rope or safety harness to climb the ladder. Signage available to show the limit (string, tape, color spray or paint).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in Storage area if there are any signage (tape, color spray or paint) on the gondola to show the 10 ft limit. Ensure no items stack above the 10 ft limit."
+            ]
+          },
+          {
+            "text": "b) OSHA guideline recommends the gap between inventory and water sprinklers, workplace roof, roof beams or light fittings and water sprinklers must be at Least 1m of clear space.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage area whether the gap between stock and water sprinklers, workplace roof, roof beams or light fittings must be at least 1 meter (estimate direct from above stock)."
+            ]
+          },
+          {
+            "text": "c) Heavy  items and unstable items must place below of stacking or racking.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe the stock stacking in storage area."
+            ]
+          }
+          ]
+        },
+
+        {  
+        "subtitle": "Safe Step Ladders",
+        "questions": [
+          {
+            "text": "a) All staffs working  in storage area must use safe ladders (below 10 ft of height only). Above 10 ft, TRAINED STAFF need to use stacker or reach truck to take the good) - FMA 1967 Regulation 12. No climbing or hanging, no standing on racking, gondola, DDT or kawajun trolley and  merchandise.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage for unsafe climbing done by staff or visitor."
+            ]
+          },
+          {
+            "text": "b) No broken ladder to be used at storage and back alley (damage ladders must be disposed or locked).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage and ensure no broken ladder available at storage."
+            ]
+          },
+          {
+            "text": "c) Movable Ladder with wheels must be locked securely before  climbing (only applicable to store  with moveable ladders).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage and ensure all user lock the ladder before climbing."
+            ]
+          }
+        ]
+        },
+        
+        {
+        "subtitle": "Backroom Walkaway",
+        "questions": [
+          {
+            "text": "a) Walkaway surface must be in safe condition (no damage floor, no uneven floor, not wet surface, , not blocking walkaway). If surface not safe, signage must be put in place for communicate purpose.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage and make sure all in safe condition (signage must be available if not safe)."
+            ]
+          }
+          ]
+        },
+        
+        {
+          "subtitle": "Blockage of Fire Equipment and Emergency Route",
+          "questions": [
+          {
+            "text": "a) Fire Exit Door, Fire Equipment, Emergency walkaway or stairs or route must not block by stocks, asset or tools at all time.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage and make sure all Fire Exit Door, Fire Equipment, Emergency walkaway not block."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Manual Lifting Method",
+          "questions": [
+          {
+            "text": "a) All staff must practise proper lifting method. Poster of proper lifting method must available at storage area.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe lifting method practise by staff and ensure lifting method poster available at storage area."
+            ]
+          }
+          ]
+        },
+        
+        {
+          "subtitle": "Lighting",
+          "questions": [
+          {
+            "text": "a) Storage area must be bright to do work (all lighting bulb must be functioning and no dim light) except for lighting using timer for energy saving purpose.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage area and ensure the area is bright enough for work."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Safety Boots",
+          "questions": [
+          {
+            "text": "a) All staff that working at backroom area and invlove with heavy machinery or heavy items must wear safety boots.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe staff in storage area and make sure all are wearing safety boots."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Evacuation Layout",
+          "questions": [
+          {
+            "text": "a) Emergency Evacuation Plan paste at storage area (minimum 2 at every storage level and can easily be seen.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage and make sure every level have at least 2 evacuation layout."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Cold Room",
+          "questions": [
+          {
+            "text": "a)  Emergency door knob inside cold room must be functioning.  Cold Safety Poster must be pasted at every cold door and all staff must follow the safety procedure as per poster.",
+            "type": "yesno",
+            "options": [
+              "Field Check: ",
+              "i. Go inside coldroom and check the condition of emergency door knob.",
+              "ii. Observe at coldroom area and ensure poster is available and safety process been followed."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Steel Glove",
+          "questions": [
+          {
+            "text": "a) Staff that using knife at meat department must wear steel glove during cutting of meat.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe and ensure staff wearing the steal glove properly as per manual."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Electrical Use",
+          "questions": [
+          {
+            "text": "a)  Electrical device or tools must in safe condition (wiring  not tangled, not damage), not have multiple extension socket and no non-SIRIM tools use. Electrical cable must be secure with tape or half moon casing to prevent any trip and fall.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe electrical device at backroom must fulfil above criteria."
+            ]
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "Staff Facilities",
+        "sections": [
+
+        {
+          "subtitle": "Toilet",
+          "questions": [
+          {   
+            "text": "a) Toilet must be in safe condition (safe surface, lighting function and emergency contact available).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe all toilet and ensure all in safe condition."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Surau",
+          "questions": [
+          { 
+            "text": "a) Surau must be in safe condition (safe surface, lighting function and emergency contact available).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe all surau and ensure all in safe condition."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Resting Area",
+          "questions": [
+          { 
+            "text": "a) Resting must be in safe condition (safe surface and lighting function).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe all surau and ensure all in safe condition."
+            ]
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "Selling Floor",
+        "sections": [
+
+        {
+          "subtitle": "Stock Stacking",
+          "questions": [
+          {   
+            "text": "a) Stock Arrangement should not be more than 10 ft height as under FMA 1967 Regulation 12, more 10 ft height, staff need to use rope or safety harness to climb the ladder. Signage available to show the limit (string, tape, color spray or paint).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in storage if there are any signage (tape, color spray or paint) on the gondola to show the 10 ft limit. Ensure no items stack above the 10 ft limit."
+            ]
+          },
+          {   
+            "text": "b) OSHA guideline recommends the gap between inventory and water sprinklers, workplace roof, roof beams or light fittings and water sprinklers must be at Least 1m of clear space.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in  storage whether the gap between stock and water sprinklers, workplace roof, roof beams or light fittings must be at least 1 meter (estimate direct from above stock)."
+            ]
+          },
+          {   
+            "text": "c) Heavy  items must place below of stacking.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe the stock stacking in sales floor."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Safe Step Ladders",
+          "questions": [
+          {   
+            "text": "a) All staffs working  in sales floor area must use safe ladders (Below 10 ft of height only). Above 10 ft, TRAINED STAFF need to use stacker or reach truck to take the good) - FMA 1967 Regulation 12. No climbing or hanging, no standing on racking, gondola and good.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in sales floor for unsafe climbing done by staff or visitor."
+            ]
+          },
+          {   
+            "text": "b) No broken ladder to be used at sales floor and back alley (damage ladders must be disposed or locked).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in sales floor and ensure no broken ladder available at sales floor."
+            ]
+          },
+          {   
+            "text": "c) Movable Ladder with wheels must be locked securely before  climbing (only applicable to store  with moveable ladders).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in sales floor and ensure all user lock the ladder before climbing."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Lifting Method",
+          "questions": [
+          {   
+            "text": "a) All staff must practise proper lifting method.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe lifting method practise by staff and ensure lifting method poster available at sales area."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Sales Floor Walkaway",
+          "questions": [
+          {   
+            "text": "a) Walkaway surface must be in safe condition (no damage floor, no uneven floor, not wet surface, not blocking walkaway).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in sales floor and make sure all in safe condition."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Electrical Use",
+          "questions": [
+          {   
+            "text": "a) Electrical device or tools must in safe condition (wiring  not tangled, not damage), not have multiple extension socket and no non-SIRIM tools use. Electrical cable at event must be secure with tape/half moon casing to prevent any trip and fall.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe electrical device at POS machine, sales floor, wall fulfil above criteria."
+            ]
+          }
+          ]
+        },
+
+        {
+          "subtitle": "Evacuation Layout",
+          "questions": [
+          {   
+            "text": "a) Emergency Evacuation Plan paste at selling area (minimum 2 at every sales floor level and can easily be seen).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in sales floor and make sure every level have at least 2 evacuation layout."
+            ]
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "MMD or RY Area",
+        "sections": [
+
+        {
+          "subtitle": "Forklift",
+          "questions": [
+          {   
+            "text": "a) Forklift to be operated by trained and authorized staff. A copy of their training document are to be kept in MMD/RY/HR office.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Check for training certificate, license and training attendance."
+            ]
+          },
+          {   
+            "text": "b) Forklift handler must wear safety vest. Forklift key must not be left at Forklift to avoid any unauthorised used.",
+            "type": "yesno",
+            "options": [
+               "Field Check:",
+               "i. Observe in MMD area, make sure all staff using the forklift wear safety helmet and safety vest.",
+               "ii. Observe Forklift."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Forklift(Safety Helmet)",
+          "questions": [
+          {   
+            "text": "a) If there are construction at the surrounding area or forklift without proper roof, it is a must for anyone working outside with forklift to wear safety helmet.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe staff in MMD area and make sure all are wearing safety helmet."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Safety Boots",
+          "questions": [
+          {   
+            "text": "a) All staff that working at MMD or RY area and invlove with heavy machinery or heavy items must wear safety boots.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe staff in MMD area and make sure all are wearing safety boots."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Blockage of Fire Equipment and Emergency Route",
+          "questions": [
+          {   
+            "text": "a) Fire Exit Door, Fire Equipment, Emergency walkaway/stairs/route must not block by stocks, asset or tools at all time.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in MMD area and make sure all Fire Exit Door, Fire Equipment, Emergency walkaway not block."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Lifting method",
+          "questions": [
+          {   
+            "text": "a) All staff must practise proper lifting method. Poster of proper lifting method must available at MMD area.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe lifting method practise by staff and ensure lifting method poster available at MMD Area."
+            ]
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Machinery",
+        "sections": [
+
+        {
+          "subtitle": "Cargo Lift or Passenger Lift (for Stand Alone Store Only)",
+          "questions": [
+          {   
+            "text":
+              "a) Cargo and Passenger Lift must have valid PMA Certificate. (pasted inside lift and original copy with mall office.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request from admin the valid PMA certificate.",
+              "Field Check: Observe inside cargo and Passenger Lift and ensure valid PMA Certificate available."
+            ]
+          },
+          {   
+            "text":
+              "b) Cargo & Passenger Lift must be in good condition (lift door sensor available, no weird sound, lighting not damage, Intercom).",
+            "type": "yesno",
+            "options": [
+              "Document Check: Observe during inside lift and ensure follow the required condition."
+            ]
+          },
+          {   
+            "text":
+              "c) Cargo and passenger lift must be service by contractor monthly.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Request from admin monthly service sheet."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Escalator or Travelator",
+          "questions": [
+          {   
+            "text": 
+              "a) Escalator or travelator Lift must have valid PMA Certificate.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request from admin the valid PMA certificate."
+            ]
+          },
+          {   
+            "text": 
+              "b) Escalator or travelator Lift must be in good condition (step stable, handrail sync with step, emergency stop button   working, yellow line available, condition of comb, safety signage). Maintenance or facilities to check escalator or travelator every two weeks.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request the checklist from admin officer or security and ensure all complete.",
+              "Field Check: Observe on escalator or travelator and ensure follow the required condition."
+            ]
+          },
+          {   
+            "text": 
+              "c) Escalator or travelator must be service by contractor monthly.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Request from admin monthly service sheet."
+            ]
+          }
+          ]
+        }
+      ]
+      },
+
+      {
+        "title": "Gas Safety",
+        "sections": [
+
+        {
+          "subtitle": "Kitchen",
+          "questions": [
+          {   
+            "text": 
+              "a) Gas piping must be in good condition (no rust, handing object, no gas leaking or smell). Domestic LPG gas not allowed at any kitchen.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe the condition of gas system in kitchen and ensure no domestic LPG been use."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Gas Storage",
+          "questions": [
+          {   
+            "text": [
+              "a) LPG storage room or area must be lock at all time and in good condition (no rust, handing object, no gas leaking or smell).",
+              "b) Gas detector system (if any).",
+              "c) Valid license of Gas must be kept at mall office."
+            ],
+            "type": "yesno",
+            "options": [
+              "Document Check: Request Certicate from Suruhanjaya Tenaga from Mall team.",
+              "Field Check: Observe in LPG and ensure in good condition."
+            ]
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Fire Safety",
+        "sections": [
+
+        {
+          "subtitle": "Fire Equipment Layout",
+          "questions": [
+          {   
+            "text": 
+              "a) The location of all Fire Equipment must properly stated in Emergency layout.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Request the latest layout from admin and check the location of Fire Equipment (Fire Extinguisher, Fire Alarm, Hose Reel)."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Equipment Validity",
+          "questions": [
+          {   
+            "text": 
+              "a) All Fire extinguisher must valid (not expired).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Check the expiry date of Fire Extinguisher (ABC & CO2)."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Equipment Servicing",
+          "questions": [
+          {   
+            "text": 
+              "a) All fire equipment must be service on quarterly basis.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Request service sheet from admin."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Extinguisher",
+          "questions": [
+          {   
+            "text": [
+              "a) All fire extinguisher must be in condition:",
+              "i. Pressure in green area  (pressure gauge)",
+              "ii. Not place directly on the floor",
+              "iii. All part of on fire extinguisher is complete (nozzle, seal, safety pin, box key [if any])",
+              "b) Signage and the cabinet key must be available near the hose reel."
+            ],
+            "type": "yesno",
+            "options": [
+              "Field Check: Check the condition of fire extinguisher based on the above criteria."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Hose Reel",
+          "questions": [
+          {   
+            "text": 
+              "a) Hose reel must be in good condition and complete. Signage and the cabinet key must be available near the hose reel.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Check the condition of hose reel on the above criteria."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "PA System",
+          "questions": [
+          {   
+            "text": 
+              "a) Sound system must can be heard at all area in backroom and sales floor.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe while walking in backroom and ensure can hear the sound system."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Exit Door",
+          "questions": [
+          {   
+            "text": 
+              "a) Fire exit door must be good condition (can easily open, with exit signage, door knob available). Fire Exit Door must be unlocked  during operation hours.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe in backroom and Sales Floor area and check the condition of fire exit door."
+            ]
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Chemical (Cleaner and Hygiene)",
+        "sections": [
+
+        {
+          "subtitle": "Personal Protective Equipment (PPE)",
+          "questions": [
+          {   
+            "text": 
+              "a) PPE must be available at the mixing area, cleaning area and storage (mask, glove, goggle and apron).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Check the above items and ensure all are available."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Storage Area",
+          "questions": [
+          {   
+            "text": 
+              "a) Storage room must be lock and not mixed with consumable items.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Check the storage room and the surrounding area on the above criteria."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Chemical Related Document",
+          "questions": [
+          {   
+            "text": [
+              "a) Safety manual must be available near storage and cleaning area for easy reference:",
+              "i. Chemical Safety Data Sheet (CSDS)",
+              "ii. Chemical Register",
+              "iii.  Chemical Usage Manual",
+              "iv. Safety Signage",
+              "v. Chemical Label",
+              "b) Chemical Hazard Risk Assessment (CHRA) must be available at store or mall."
+            ],
+            "type": "yesno",
+            "options": [
+              "Document Check: Request from admin the CHRA report.",
+              "Field Check: Observe in strorage and cleaning area and ensure all required documents is available."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Safety Signage (Cleaning)",
+          "questions": [
+          {   
+            "text": 
+              "a) Cleaner must place a safety signage whenever they do cleaning in sales floor and storage.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe at sales floor & storage and ensure safety signage been place during cleaning."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Chemical Storage",
+          "questions": [
+          {   
+            "text": 
+              "a) Chemical must be place inside chemical grade container (mineral water bottle is stricly not allowed).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe at sales floor and storage and ensure no water bottle been use."
+            ]
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Parking (Applicable to AB with parking only)",
+        "sections": [
+
+        {
+          "subtitle": "Lighting",
+          "questions": [
+          {   
+            "text": 
+              "a) All lighting in parking must be functioning and no dark or dim area.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe at parking area and ensure all lighting area are functioning."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Surface Condition",
+          "questions": [
+          {   
+            "text": 
+              "a) Surface of parking area must be in good condition (not wet and no hole, no uneven surface).",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe at parking area and ensure the surface are in good condition."
+            ]
+          }
+        ]
+        }
+      ]
+      },
+
+      {
+        "title": "Documentation",
+        "sections": [
+
+        {
+          "subtitle": "Health, Safety & Environment (HSE) Policy",
+          "questions": [
+          {   
+            "text": 
+              "a) HSE Policy must be available at Staff Entrance, Information Board & Management Office.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe and ensure HSE Policy available at the place."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "OSH File",
+          "questions": [
+          {   
+            "text": [
+              "a) Safety file must be devided with below information:",
+              "i. OSH Committee Organization Chart",
+              "ii. LOA of OSH Committee Member",
+              "iii. Document of Quarterly OSH Committee Meeting (Agenda, , Minutes of  Meeting, Meeting Attendance, Workplace Inspection) - with complete signature of Chairman, Vice Chairman and Secretary)."
+               ],
+            "type": "yesno",
+            "options": [
+              "Document Check: - with complete signature of Chairman, Vice Chairman & Secretary."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "OSH Meeting",
+          "questions": [
+          {   
+            "text": 
+              "a) Safety Meeting must be conducted every 3 month (compulsory). The meeting attendance must above 50% of total OSH Committee Member (Store and Mall). Workplace inspection must be conducted before OSH Committee Meeting.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request OSH Meeting Document from admin and check weather the above criteria been followed."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Accident File",
+          "questions": [
+          {   
+            "text": [
+              "a) Accident file must be arrange by month and year. Each accident must have complete document as follow:",
+              "i. Incident Report (Japan Format)",
+              "ii. Security 'Laporan Kemalangan dan Kejadian Bahaya'",
+              "b) Summary of accident (JKKP8) - every year."
+            ],
+            "type": "yesno",
+            "options": [
+              "Document Check: Request OSH File and ensure all the above documents are complete."
+            ]
+          },
+          {   
+            "text": [
+              "c) Accident involve JKKP6 (MC more than 4 days) - If any. Each accident involve JKKP6 (MC more than 4 days must have complete documents as follow:",
+              "i. Incident Report (Japan Format)",
+              "ii. Security 'Laporan Kemalangan dan Kejadian Bahaya'",
+              "iii. JKKP9 - Data of Accident",
+              "iv. Incident Statement Form (Witness or Victim)",
+              "v. Minutes of Meeting",
+              "vi. Meeting Attendance",
+              "vii. Investigation Form",
+              "viii. JKKP6",
+              "x. Medical Leave or medical Report"
+            ],
+            "type": "yesno",
+            "options": [
+              "Document Check: Request OSH File and ensure all the above documents are complete."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Emergency Information",
+          "questions": [
+          {   
+            "text": 
+              "a) Updated Emergency Contact(Police, Bomba)  must be pasted at Information Board and Staff Entrance. Latest Emergency Response Team (ERT) Organization Chart must be paste at Information Board and Staff Entrance.",
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe at Information Board & Staff Entrance and ensure that the above information are available."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Training (For Stand Alone Store only)",
+          "questions": [
+          {   
+            "text": 
+              "a) Mall must organise Fire Training once a year. Every training must have training attendace and picture of training.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request from admin the fire training document and ensure all complete."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Fire Certificate",
+          "questions": [
+          {   
+            "text": 
+              "a) a) Mall must kept the original copy of valid Fire Certificate in Mall Office.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request from admin the valid Fire Certificate."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Visitor Registration",
+          "questions": [
+          {   
+            "text": 
+              "a) Visitor, supplier, contractor and non-permanent promoter must register when they enter the premises. Visitor, supplier, contractor must follow proper attire as per foster (poster must be paste at entrance).",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request registration book staff entrance and compare the information recorded with their IC or license.",
+              "Field Check: Observe the attire wear by visitor, supplier, contractor when they enter mall."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Work Permit File",
+          "questions": [
+          {   
+            "text": 
+              "a) All contractor must fill up work permit completely before start working in premises. A copy of work permit should be kept at security to verify the contractor that come in.",
+            "type": "yesno",
+            "options": [
+              "Document Check: Request from admin the work permit file and ensure all complete.",
+              "Field Check: i. Check work permit at Security.",
+              "ii. Check any work conduct on the day of audit and ensure work permit is available."
+            ]
+          }
+        ]
+        },
+
+        {
+          "subtitle": "Non Smoking Poster",
+          "questions": [
+          {   
+            "text": [
+              "a) Not smoking poster must be paste at below area:",
+              "i. Toilet",
+              "ii. Resting area",
+              "iii. Loading Bay (Outside & Inside)",
+              "iv. Staircase",
+              "v. All Technical room including LPG Room",
+              "vi. Walkaway"
+            ],
+            "type": "yesno",
+            "options": [
+              "Field Check: Observe at Information Board and Staff Entrance and ensure that the above information are available."
+            ]
+          }
+        ]
+        }
+      ]
+    }
+  ]
+}
+  

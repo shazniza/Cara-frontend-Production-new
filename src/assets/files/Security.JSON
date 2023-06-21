@@ -1,0 +1,553 @@
+{
+  "pages": [
+    {
+      "title": "Store Opening",
+      "questions": [
+        {
+          "id": 1,
+          "text": "a) Security member accompanied by opening manager.",
+          "type": "yesno"
+        },
+        {
+          "id": 2,
+          "text": "Building alarm system printer functioning in a correct date and time.",
+          "type": "yesno"
+        },
+        {
+          "id": 3,
+          "text": "Paper printed is examined, signed, and stamped by opening manager.",
+          "type": "yesno",
+          "options": ["Cats", "Dogs"]
+        },
+        {
+          "id": 4,
+          "text": "Store opening checklist is prepared.",
+          "type": "yesno",
+          "options": ["Spring", "Summer", "Fall", "Winter"]
+        },
+        {
+          "id": 5,
+          "text": "All alarm systems in the building are functioning. NOTE: Inspect (MRF) if it is not function.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Store Closing",
+      "questions": [
+        {
+          "id": 6,
+          "text": "Security member accompanied by closing manager.",
+          "type": "yesno"
+        },
+        {
+          "id": 7,
+          "text": "Building alarm system is armed (check the printer list).",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 8,
+          "text": "Important contact list is prepared.",
+          "type": "yesno"
+        },
+        {
+          "id": 9,
+          "text": "Examine list for the store closing from the office area to the staff entrance door closing (Closing Store Checklist) is prepared.",
+          "type": "yesno"
+        },
+        {
+          "id": 10,
+          "text": "All closing key from the office area to the CCTV room is kept in the CCTV room (except for the staff entrance door key is kept by closing manager).",
+          "type": "yesno"
+        },
+        {
+          "id": 11,
+          "text": "Key box is prepared to keep the store closing key.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Staff Entrance Area",
+      "questions": [
+        {
+          "id": 12,
+          "text": "Promoter/Supplier/Visitor/Casual Worker pass is in good condition or not shredded.",
+          "type": "yesno"
+        },
+        {
+          "id": 13,
+          "text": "Supplier and visitor book is recorded by security guard.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 14,
+          "text": "Staff and promoter misconduct form is prepared, and action taken is recorded.",
+          "type": "yesno"
+        },
+        {
+          "id": 15,
+          "text": "Foreign worker book OCW is filled in: Name, Passport No, Time In & Out, Signature.",
+          "type": "yesno"
+        },
+        {
+          "id": 16,
+          "text": "Location record book is examined by the officer/proxy.",
+          "type": "yesno"
+        },
+        {
+          "id": 17,
+          "text": "New Question",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Loading Bay Area",
+      "questions": [
+        {
+          "id": 18,
+          "text": "Security guard is on duty based on the schedule in every time to monitor the loading bay area (check the timetable).",
+          "type": "yesno"
+        },
+        {
+          "id": 19,
+          "text": "2 security guard need to be at the location: <br>  i.  1 security guard was assigned to prepare the supplier and DC lorry loading documentation from the area. <br>ii. 1 security guard was assigned to monitor the supplier in and out activity and the goods receipt process.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 20,
+          "text": "Staff and promoter misconduct form is prepared, and action taken is recorded.",
+          "type": "yesno"
+        },
+        {
+          "id": 21,
+          "text": "Foreign worker book OCW is filled in: Name, Passport No, Time In & Out, Signature.",
+          "type": "yesno"
+        },
+        {
+          "id": 22,
+          "text": "Location record book is examined by the officer/proxy.",
+          "type": "yesno"
+        },
+        {
+          "id": 23,
+          "text": "New Question",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Customer Entrance",
+      "questions": [
+        {
+          "id": 24,
+          "text": "Security guard need to available at every customer entrance/exit.",
+          "type": "yesno"
+        },
+        {
+          "id": 25,
+          "text": " Security guard need to stand 1.5 feet apart from EAS and always observe every customer that left by focusing their trolley and plastic bags.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 26,
+          "text": "Security guard completely provided with Walkie-talkies, whistle and cota.",
+          "type": "yesno"
+        },
+        {
+          "id": 27,
+          "text": "Security guard should know that they should stop staff/promoter that do not have AUTHORIZATION PASS tag when enter or exit through customer entrance. Test: Arrange staff to exit.",
+          "type": "yesno"
+        },
+        {
+          "id": 28,
+          "text": "Security guard should know staff/promoter is not allowed to bring goods out from customer entrance.Test: Arrange staff to exit with goods.",
+          "type": "yesno"
+        },
+        {
+          "id": 29,
+          "text": "Logbook to record EAS cause alarm should be prepared.",
+          "type": "yesno"
+        },
+        {
+          "id": 30,
+          "text": "Logbook to record any incident at any location should be prepared (Location Report Book).          ",
+          "type": "yesno"
+        },
+        {
+          "id": 31,
+          "text": "Location Report Book examine by Officer/Proxy.",
+          "type": "yesno"
+        },
+        {
+          "id": 32,
+          "text": " Security guard knowledge: Sold Tape color on that day.",
+          "type": "yesno"
+        },
+        {
+          "id": 33,
+          "text": "  Security guard should know that they should request for the receipt when stopping the customer due to no SOLD tape at the plastic bag.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 34,
+          "text": " Security guard should know only the authorized person (manager/DL) are able to enter and exit through customer entrance during working hour with using Approval Pass.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 33,
+          "text": " Security guard should know how to handle situation such as when see the suspected thief. Security should know how to explain based on the security standard procedure.",
+          "type": "yesno"
+        },
+        {
+          "id": 35,
+          "text": " Security member should examine electrical goods sold receipt from customer. Stamp and tape are prepared at every customer entrance.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": " EAS(Electronic Article Surveillance)",
+      "questions": [
+        {
+          "id": 36,
+          "text": "Selling Area:All EAS lights should switch on to make sure the sensor device is active.",
+          "type": "yesno"
+        },
+        {
+          "id": 37,
+          "text": "EAS switch box needs to be locked after the EAS sensor is on.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 38,
+          "text": "Security needs to check EAS 4 times a day (Before business operate, 11 a.m, 4 p.m, 8 p.m).",
+          "type": "yesno"
+        },
+        {
+          "id": 39,
+          "text": " EAS switch box key needs to keep in the key box at the Admin office or security room.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 40,
+          "text": "Closing manager should examine all EAS system is switch off after business operation ended (Record available in the Closing File checklist).",
+          "type": "yesno"
+        },
+        {
+          "id": 41,
+          "text": "Cashier Counter: Plastic, SOLD tape and discount sticker must be kept in the locked drawer during close counter.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Selling Area Security",
+      "questions": [
+        {
+          "id": 42,
+          "text": " High risk good with hard tag, loop tag, chain: Audio Visual.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 43,
+          "text": "Home Appliances.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 44,
+          "text": " Health & Beauty Care (HBC).",
+          "type": "yesno"
+        },
+        {
+          "id": 45,
+          "text": " Babies.",
+          "type": "yesno"
+        },
+        {
+          "id": 46,
+          "text": "Mens & Ladies Apparels. All tag should be located at the left side of selling items.",
+          "type": "yesno"
+        },
+        {
+          "id": 47,
+          "text": "Milk powder.",
+          "type": "yesno"
+        },
+        {
+          "id": 48,
+          "text": "Liquor & Beer.",
+          "type": "yesno"
+        },
+        {
+          "id": 49,
+          "text": "Cashier that on duty at Separated cashier counter (milk powder, liquor, promotion).          ",
+          "type": "yesno"
+        },
+        {
+          "id": 50,
+          "text": " Cashier counter gate will be closed if the counter is not operated.",
+          "type": "yesno"
+        },
+        {
+          "id": 51,
+          "text": "Security members need to available in front of the cashier counter supermarket.",
+          "type": "yesno"
+        },
+        {
+          "id": 52,
+          "text": "Fitting Room:Fitting room area is in good condition (check near the mirror frame if any price tag placed there if any damage occurred in the fitting room).",
+          "type": "yesno"
+        },
+        {
+          "id": 53,
+          "text": " Weighing Goods: Tape is used for all weighing goods (Perishable).",
+          "type": "yesno"
+        },
+        {
+          "id": 54,
+          "text": " Not for Resale sticker is used for high risk lost goods.",
+          "type": "yesno"
+        },
+        {
+          "id": 55,
+          "text": "  Sample sticker is used for sampling goods.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "CCTV",
+      "questions": [
+        {
+          "id": 56,
+          "text": " More than a month recording a kept.",
+          "type": "yesno"
+        },
+        {
+          "id": 57,
+          "text": " Security need to always monitor the CCTV (Check the daily timetable).",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 58,
+          "text": "nly authorized person is allowed to enter the CCTV room (Entry instructions should be displayed).",
+          "type": "yesno"
+        },
+        {
+          "id": 59,
+          "text": "All camera, monitor, DVR and recorder should function. NOTE: Examine (MRF) if any is not functioning.",
+          "type": "yesno"
+        },
+        {
+          "id": 60,
+          "text": " Security that monitoring the CCTV should completely provide with walkie-talkie.",
+          "type": "yesno"
+        },
+        {
+          "id": 61,
+          "text": "Camera should function at the important location, which is staff entrance, loading bay, account room, customer entrance and CCTV room.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 61,
+          "text": "Camera should function at the important location, which is staff entrance, loading bay, account room, customer entrance and CCTV room.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 62,
+          "text": "Access card/number password system should be used to enter the CCTV room. ",
+          "type": "yesno"
+        },
+        {
+          "id": 63,
+          "text": "Instructions to officer in the control room (SOP) should be displayed.",
+          "type": "yesno"
+        },
+        {
+          "id": 64,
+          "text": "Location report book should examine by the Officer/Proxy.",
+          "type": "yesno"
+        }, {
+          "id": 65,
+          "text": "Security on duty knowledge, CCTV handling test (Playback & Control).",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Backroom Store Area",
+      "questions": [
+        {
+          "id": 66,
+          "text": "  No empty pack (foods) found in the backroom store. *Please record and list the location if any goods found in poor condition, refer to the Team Leader to confirm the list and the cost.",
+          "type": "yesno"
+        },
+        {
+          "id": 67,
+          "text": " No goods kept outside the store after business hour (Check the CCTV record).          ",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 68,
+          "text": " High risk loss or Top 20 goods showroom/cabinet/cage/store need to be locked when not in use. Key and cage need to be in good condition. Examine and test.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 69,
+          "text": " Staff need to return all the key to DL/line manager at the last business hour. Logbook to record the key movement need to be prepared.",
+          "type": "yesno"
+        },
+        {
+          "id": 70,
+          "text": "  All keys need to be kept in key box or at safe place for other alternative and only authorized person need to kept the key.",
+          "type": "yesno"
+        },
+        {
+          "id": 71,
+          "text": "Closing manager need to inspect all the locked cages after business hour (check the Closing File).          ",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Account Room",
+      "questions": [
+        {
+          "id": 72,
+          "text": " CCTV has installed in the room.",
+          "type": "yesno"
+        },
+        {
+          "id": 73,
+          "text": " Room is always locked.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 74,
+          "text": " Panic button functioning. Evaluators need to verify after testing is done. ",
+          "type": "yesno"
+        },
+        {
+          "id": 75,
+          "text": " Key collection and handover record book is prepared (verified and controlled by security).",
+          "type": "yesno"
+        }
+      ]
+    },
+     {
+      "title": "PA Zero",
+      "questions": [
+        {
+          "id": 76,
+          "text": "  Schedule to operate PA 0 is prepared (11a.m to 1 p.m & 5p.m to 7p.m) except Bakery & Delica department.          ",
+          "type": "yesno"
+        },
+        {
+          "id": 77,
+          "text": "Logbook with price tag list is prepared if HHT scanner device is not available (if the inspection done manually).",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        },
+        {
+          "id": 78,
+          "text": "PA 0 goods is kept in safe PA area.",
+          "type": "yesno"
+        },
+        {
+          "id": 79,
+          "text": " iZPA document is prepared to declare the goods is PA 0. PA 0 goods must dispose in the same day (except Police Case – check LTKK & iZPA). Examine all the approved signature and stamp completeness.",
+          "type": "yesno"
+        },
+        {
+          "id": 80,
+          "text": " PA 0 (Bakery, Delica & Perishable) implementation: Security members must examine and verify the goods that must do PA 0 near the affected department.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Waste Disposal",
+      "questions": [
+        {
+          "id": 81,
+          "text": " Schedule to operate waste disposal is prepared (10a.m to 12p.m & 5p.m to 7p.m) and displayed. ",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Security Training",
+      "questions": [
+        {
+          "id": 82,
+          "text": " Training operated (examine the attendance record & training title). ",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Security and LINE Briefing",
+      "questions": [
+        {
+          "id": 83,
+          "text": " Security Briefing Book. Daily sold tape stated &. HQ/Store manager’s information.     ",
+          "type": "yesno"
+        },
+        {
+          "id": 84,
+          "text": "LINE briefing book/form.Information delivered.",
+          "type": "yesno",
+          "options": ["Yes", "No"]
+        }
+      ]
+    },
+    {
+      "title": "LOSS Meeting",
+      "questions": [
+        {
+          "id": 85,
+          "text": "  Minutes of meeting recorded (send to HG R&P in 14 days after meeting). Information received from security is included.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Vendors' Meeting (Security)",
+      "questions": [
+        {
+          "id": 86,
+          "text": " Minutes of meeting recorded (send to HG R&P in 14 days after meeting).Information received from security is included.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "Meeting with Local Government Enforcement Agencies",
+      "questions": [
+        {
+          "id": 87,
+          "text": " POLIS.Minutes of meeting recorded (send to HG R&P in 7 days after meeting). Information received from security is included.",
+          "type": "yesno"
+        },
+        {
+          "id": 88,
+          "text": "  BOMBA.Minutes of meeting recorded (send to HG R&P in 7 days after meeting). Information received from security is included.",
+          "type": "yesno"
+        }
+      ]
+    }
+
+
+  ]
+}

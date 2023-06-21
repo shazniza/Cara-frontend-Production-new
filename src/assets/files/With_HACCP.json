@@ -1,0 +1,723 @@
+{
+    "pages": [
+      {
+        "title": "1.0 DESIGN AND FACILITIES",
+        "questions": [
+          {
+            "text": "a) Does premise located near to any contamination source? If yes, are the preventive action has been taken to minimise the contamination risk? If premise is located near contamination?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Neighbouring outlets does not pose any contamination risk. If there is any risk,  prevention had been taken to minimise risk.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Premise parameters  maintained and kept free of waste, accumulated debris, harbourages, insects breeding spots.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Flow of processing avoids cross contamination?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Walls, ceilings, floor, fans & windows are kept clean?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Light fixtures are clean, covered and in good condition?",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Drainage are appropriately covered, clean and not overflowing?",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Equipments & utensils used are in good condition and made from appropriate material?",
+            "type": "yesno"
+          },
+          {
+            "text": "i) Procedure for maintenance & calibration are available?",
+            "type": "yesno"
+          },
+          {
+            "text": "j) Measuring devices are in good condition and calibrated by competent provider?",
+            "type": "yesno"
+          },
+          {
+            "text": "k) Maintenance & calibration was carried out without any delay.",
+            "type": "yesno"
+          },
+          {
+            "text": "l) Corrective actions are recorded & implemented when measuring and monitoring devices deviated.",
+            "type": "yesno"
+          },
+          {
+            "text": "m) Portable water used for production is from reliable sources.",
+            "type": "yesno"
+          },
+          {
+            "text": "n) Ice produced from potable water of reliable sources and kept away from contamination?",
+            "type": "yesno"
+          },
+          {
+            "text": "o) Steam used from potable water of reliable sources.",
+            "type": "yesno"
+          },
+          {
+            "text": "p) If water sources is not from state water department, analysis to determine water quality is available and tested regularly.",
+            "type": "yesno"
+          },
+          {
+            "text": "q) Hand wash sink is equipped with:-",
+            "type": "yesno",
+            "options": [
+                "i. running water,",
+                "ii. hand wash soap,",
+                "iv. tissue bin, and",
+                "v. hand wash poster"
+              ]
+          },
+          {
+            "text": "r) Toilets are kept clean, maintained in good condition, and free from malodour.",
+            "type": "yesno"
+          },
+          {
+            "text": "s) Toilet equipped hand wash sink?",
+            "type": "yesno"
+          },
+          {
+            "text": "t) Toilet is not accessible from processing area?",
+            "type": "yesno"
+          },
+          {
+            "text": "u) Changing room and/or locker is provided for staff?",
+            "type": "yesno"
+          },
+          {
+            "text": "v) Eating area/canteen/café provided for staff is located away processing, packaging & storage area.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "2.0 FOOD HANDLER",
+        "questions": [
+          {
+            "text": "a) Food handler are medically examined and vaccinated by registered medical practitioner.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Personnel hygiene procedures are available and implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Personnel refrains from activities that could contribute to contamination on food/product.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Personnel attires does not contribute to physical hazard. Personnel protective attire are provided when process deem necessary (apron, head cover, covered shoes, etc).",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Nails are trimmed, no open wound or sores.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "3.0 TRAINING",
+        "questions": [
+          {
+            "text": "a) Food handler underwent food handler course and obtained Food Handlers Course cerficate from training provided registered with KKM.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Personnel Training procedure is available and implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Does the organization has training plan/schedule and identifying the need for training?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Refresher training carried out annually corresponds with product risk.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Are current Material Safety Data Sheets (MSDS) available for any chemical hat is being used or stored on site?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Training records, assessments, and certificates are available and accessible.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Does the company conducted any testing to monitor the effectiveness of the cleaning programme?",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Are trained personnel used for cleaning and disinfection?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "6.0 PERSONAL HYGIENE",
+        "questions": [
+          {
+            "text": "a) Are personal hygiene requirements in place and applicable to all relevant personnel, contractors and visitors",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Personnel are trained to handle cleaning & disinfection?",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Verification activities are conducted to monitor effectiveness of cleaning done?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Do the officer in charged supervised the personnel's cleanliness?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Pest control programme is undertaken by competent parties (PAL/company license/training records accessible & updated).",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Pest control service report are available and findings are addressed",
+            "type": "yesno",
+            "options": [
+                "i. layout",
+                "ii. service records"
+              ]
+          },
+          {
+            "text": "g) Are personnel, contractors and visitors aware of and complying with the requirements for the wearing and changing of protective clothing in specified work areas?",
+            "type": "yesno"
+          }
+          
+        ]
+      },
+      {
+        "title": "7.0 PACKAGING",
+        "questions": [
+          {
+            "text": "a) Packaging and design and materials should provide adequate protection for products to minimise contamination, prevent damage to the product.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Packaging materials or gases when used shall be non toxic and not pose a threat to the safety and suitability of food under the specified conditions of storage and use.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Is the packaging stored away from raw materials and finished products?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Is packaging done at appropriate place?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Proper labeling is available on the packaging which include (Refer Labeling Circular):",
+            "type": "yesno",
+            "options": [
+                "i. Product Name",
+                "ii. Manufacturer Name",
+                "iii. Importer/ Distributor Name",
+                "iV. Expiry Date",
+                "v. Production Date/Batch number",
+                "vi. Storage Condition",
+                "vii. Halal Logo (only Halal certified company)"
+              ]
+          }
+        ]
+      },
+
+      {
+        "title": "8.0 PEST CONTROLS",
+        "questions": [
+          {
+            "text": "a) Is pest control programme conducted internally or externally or both?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Records on material receiving is available and accessible.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Raw material are received at appropriate location.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Procedure for raw material cleaning and/or sanitation are available and implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Suitable raw material washing necessities and equipments are provided.",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Raw material used are in good condition and within valid expiry date.",
+            "type": "yesno"
+          }
+
+        ]
+      },
+      {
+        "title": "6.0 PROCESS CONTROL",
+        "questions": [
+          {
+            "text": "a) Controls are identified and implemented at each processing step to reduce biological hazard (temperature, humidity, acidity, etc).",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Effective practices to prevent biological cross contamination are implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Procedure for chemical used throughout the processing chain are available and implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Chemicals used in food product and/or in food production are within specified limit (concentration, minimum/maximum level), ie: additives, sanitizers, etc. Relevant records are available.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) No prohibited additives are used.",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Effective practices to prevent chemical cross contamination are implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Controls are identified and implemented at each processing step to reduce physical hazard (sieves, metal detector, etc).",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Effective practices to physical chemical cross contamination are implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "i) Allergen, allergen traces & potential causes of cross contamination are identified documented.",
+            "type": "yesno"
+          },
+          {
+            "text": "j) Allergen & traces of allergen are declared on the packaging label. (Traces of allergen only for products that is CODEX HACCP certified).",
+            "type": "yesno"
+          },
+          {
+            "text": "k) Clear labelling is in place to ensure continuous identification of allergen throughout all stages of production.",
+            "type": "yesno"
+          },
+          {
+            "text": "l) Cleaning & sanitation procedures are in place to effectively remove allergen & allergen traces from food contact surfaces.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "7.0 PACKING & PACKAGING",
+        "questions": [
+          {
+            "text": "a) Packaging material used minimises contamination, and prevent damages to the product.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Packaging materials or gases when used shall be non toxic and does not pose threat to the safety and suitability of food under the specified conditions of storage and usage (SDS/Food Grade CoA/Migration test).",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Packing is done at appropriate area.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Finished goods label complies basic labelling requirements:-",
+            "type": "yesno",
+            "options": [
+                "i. name",
+                "ii. manufacturer's name & address",
+                "iii. ingredients",
+                "iv. expiry date",
+                "v. language used",
+                "vi. language used",
+                "vii. Halal logo (for halal certified products only)"
+              ]
+          },
+          {
+            "text": "e) Finished goods labels are tally with label declared in PI.",
+            "type": "yesno"
+          }
+        
+        ]
+      },
+      {
+        "title": "8.0 STORAGE",
+        "questions": [
+          {
+            "text": "a) Food and non-food storage are appropriately segregated.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Raw material, work-in-progress (WIP), finished goods are segregated.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) FIFO/FEFO is practiced.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Raw material kept inside appropriate container.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Raw materials, work-in-progress, finished products, and packaging materials are kept 20cm above floor and 15cm away from wall?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Raw materials, work-in-progress, and finished products are stored appropriately to minimize the spoilage (temperature, humidity, light etc).",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Raw materials are kept at temperature suitable to nature of product.",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Cold chain (chill and/or frozen) are maintain.",
+            "type": "yesno"
+          },
+          {
+            "text": "i) Storage temperature record are available and within specified range.",
+            "type": "yesno"
+          },
+          {
+            "text": "j) Adequate storage are provided for raw material, work-in-progress, finished goods, & non-food product.",
+            "type": "yesno"
+          },
+          {
+            "text": "k) Storage are kept free of waste, debris, accumulated debris, harbourages, insects breeding spots.",
+            "type": "yesno"
+          },
+          {
+            "text": "l) Storage condition is appropriate to minimize deterioration to food (ie: temperature, humidity, lighting, ventilation etc).",
+            "type": "yesno"
+          },
+          {
+            "text": "m) Materials are raised 20cm above floor and 15cm away from wall.",
+            "type": "yesno"
+          },
+          {
+            "text": "n) Chemical are kept at least 30cm away from food material.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "9.0 TRANSPORTATION & DELIVERY",
+        "questions": [
+          {
+            "text": "a) Product Transport/ Product Release has been developed and implemented.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Appropriate temperature for vehicles required to transport chill and frozen merchandise.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Vehicles used to transport raw materials, packaging, work-in-progress and/or finished products are kept in clean and hygienic condition.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Records of cleaning, maintenance, inspection and temperature release for delivery vehicle is available.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "10.0 TRACEABILITY",
+        "questions": [
+          {
+            "text": "a) Documented traceability procedure system is in place for raw material, work-in-progress (WIP), finished goods and non-conforming products.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) All traceability records are available and updated.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Raw material, work-in-progress (WIP), finished goods and non-conforming products are identifiable & traceable.",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Packaging material sources are identifiable.",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Organization has developed, documented, and implemented non-conforming product control procedures that defines actions to be taken when monitoring and verification procedures reveal that products did not meet specifications.",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Invoice or any relevant documents for imported products are available/traceable.",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Is the traceability system tested (mock recall) at least annually and updated as necessary?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "18.0 HACCP TEAM",
+        "questions": [
+          {
+            "text": "a) Does the organization have a documented HACCP team?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Records of all customer and consumer complaints, investigations and corrective actions are maintained.",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Corrective actions are identified and effectively maintained.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "12.0 HACCP TEAM",
+        "questions": [
+          {
+            "text": "a) Does the organization have a documented HACCP team?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Does the HACCP team comprise of individuals within the organization that have the process skills and knowledge to develop and maintain the HACCP plan?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "13.0 PRODUCT DESCRIPTION AND INTENDED USE OR PRODUCT CHARACTERISTICS",
+        "questions": [
+          {
+            "text": "a) Have product descriptions/product characteristics been developed and documented for supplied products?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Does each product descriptions/product characteristics cover the criteria which are product name, physcial, chemical and biological characterics, composition, origin, method of production, packaging, delivery method, storage condition, preparation/handling before use or processing and food safety related acceptance criteria/spec of purchased materials/ingredients appropriate to their intended use.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "14.0 FLOW DIAGRAM",
+        "questions": [
+          {
+            "text": "a) Are documented flow diagrams in place?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Has the HACCP team verified the flow diagrams?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "15.0 HAZARD ANALYSIS",
+        "questions": [
+          {
+            "text": "a) Has hazard analysis been undertaken and documented at each step of the process as identified in the flow diagram(s)?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Has a hazard analysis been under taken for each raw materials, packaging and additives?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "16.0 CRITICAL CONTROL POINTS(CCP)",
+        "questions": [
+          {
+            "text": "a) Have all CCPs been identified?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Have control measures to reduce the likelyhood of all significant hazrads been identified?",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Has the organization undertaken a validation study to ensure said limits will control the significant hazard?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Are monitoring methods and frequency are established for all critical control points?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Are CCPs clearly recorded on the quality inspection worksheets?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Are staff that conduct monitoring checks on CCPs trained in correct methods?",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Is the actual production capacity data recorded by monitoring staff and review & signed by appropriate people?",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Have CCP corrective actions been developed, documented and implemented that define the action(s) to be taken when monitoring reveals that critical limit has not been met?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "17.0 PRODUCT ANALYSIS",
+        "questions": [
+          {
+            "text": "a) Is the product analysis done internally and/or externally?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Is a schedule of testing in place to confirm that products or processes meet regulatory and customer requirements and to ensure quality and food safety parameters?",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Are methods relevant for food safety used to provide valid results (e.g. by procedures set forth in ISO 17025 and/or industry recognized methods)?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Has the process for determining the shelf life and assumptions for each product been carried out and documented?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Are CCPs clearly recorded on the quality inspection worksheets?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Are staff that conduct monitoring checks on CCPs trained in correct methods?",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Is the actual production capacity data recorded by monitoring staff and review & signed by appropriate people?",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Have CCP corrective actions been developed, documented and implemented that define the action(s) to be taken when monitoring reveals that critical limit has not been met?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "27.0 PRODUCT ANALYSIS",
+        "questions": [
+          {
+            "text": "a) Is the product analysis done internally and/or externally?",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Is a schedule of testing in place to confirm that products or processes meet regulatory and customer requirements and to ensure quality and food safety parameters?",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Are methods relevant for food safety used to provide valid results (e.g. by procedures set forth in ISO 17025 and/or industry recognized methods)?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Has the process for determining the shelf life and assumptions for each product been carried out and documented?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Have end of shelf life results demonstrated that the parameters of the product at the end of shelf life continue to meet the finished product specification? Eg: microbiological testing.",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "28.0 SLAUGHTERING HOUSE",
+        "questions": [
+          {
+            "text": "a) Establishment is registered with relevant Malaysian authority.",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Are the vehicles used to transport Halal finished products also used to transport non-halal products of pigs & dogs origin?",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Is Animal Specification Available:",
+            "type": "yesno",
+            "options": [
+                "i. Breed",
+                "ii. Sex.",
+                "iii. Age",
+                "iv. Weight",
+                "v. Parasitic dosing",
+                "vi. Drugs or other medication records",
+                "vii. Health records"
+              ]
+          },
+          {
+            "text": "d) Did the organization purchased live animals from approved supplier?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Had the lives animal been given antibiotics? Was the antibiotics permitted by relevant competent authority?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Has the maximum antibiotics residue limit for slaughter animals been tested? Is the result available?",
+            "type": "yesno"
+          }
+        ]
+      },
+      {
+        "title": "19.0 HALAL",
+        "questions": [
+          {
+            "text": "a) Does the organization manufacture/supply non halal items? (If Yes, please specify)",
+            "type": "yesno"
+          },
+          {
+            "text": "b) Is there any proper storage segregation between halal and non halal items?",
+            "type": "yesno"
+          },
+          {
+            "text": "c) Is the any repacking or further process involved in the organization?",
+            "type": "yesno"
+          },
+          {
+            "text": "d) Is stunning used as part of slaughtering process? If yes, is the stunning voltage used appropriate for animals weight?",
+            "type": "yesno"
+          },
+          {
+            "text": "e) Are all the checker trained by Halal Certification Body? Are the records available?",
+            "type": "yesno"
+          },
+          {
+            "text": "f) Are all the slaughterer registered and trained by Halal Certification Body? Are the records available?",
+            "type": "yesno"
+          },
+          {
+            "text": "g) Is there any written schedule or guideline on frequency of slaughterer & checker changes during slaughtering process?",
+            "type": "yesno"
+          },
+          {
+            "text": "h) Is there any written schedule or guideline on frequency of slaughterer and checker changes during slaughtering process?",
+            "type": "yesno"
+          },
+          {
+            "text": "i) Are all non-conformance product clearly labelled and segregated throughout the whole slaughtering process up to delivery process?",
+            "type": "yesno"
+          },
+          {
+            "text": "j) For non-conformance that was caused by slaughtering process, has the rootcause and corrective actions been identified and implemented?",
+            "type": "yesno"
+          }
+        ]
+      }
+
+    ]
+  }

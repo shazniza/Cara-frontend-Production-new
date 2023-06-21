@@ -1,0 +1,161 @@
+{
+  "pages": [
+    {
+      "title": "1. Beauty Advisor On-Duty",
+      "questions": [
+        {
+          "id": 1,
+          "text": "a) Beauty advisor appearance is clean, neat and tidy with moderate makeup.",
+          "type": "yesno"
+        },
+        {
+          "id": 2,
+          "text": "b) Wears formal office wear with closed toe shoes.",
+          "type": "yesno"
+        },
+        {
+          "id": 3,
+          "text": "c) Wears clean blazer with black slacks and beauty advisor badge.",
+          "type": "yesno",
+          "options": [
+            "Yes",
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Beauty Counter/Signage and Display",
+      "questions": [
+        {
+          "id": 4,
+          "text": "a) Beauty advisor on-duty name and time signage (if available).",
+          "type": "yesno"
+        },
+        {
+          "id": 5,
+          "text": "b) Beauty counter signage displayed as appropriately",
+          "type": "yesno",
+          "options": [
+            "Calendar schedule",
+            "Off duty",
+            "Beauty advisor out for break",
+            "Beauty consultation A21 poster"
+          ]
+        },
+        {
+          "id": 6,
+          "text": "c) Wall gondola promotion items display updated (MBB, Press Advertisement, Weekend Special) with POP.",
+          "type": "yesno"
+        },
+        {
+          "id": 7,
+          "text": "d) Front counter shelves complete with promotion packs or hampers with POP.",
+          "type": "yesno"
+        },
+        {
+          "id": 8,
+          "text": "e) Top counter kept clean and tidy with display of feature promotion stocks with POP.",
+          "type": "yesno"
+        },
+        {
+          "id": 9,
+          "text": "f) No display of unapproved supplier countertop or leaflets or brochures.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "3. Beauty Counter Cabinet",
+      "questions": [
+        {
+          "id": 10,
+          "text": "a) Kept clean and tidy at all times.",
+          "type": "yesno"
+        },
+        {
+          "id": 11,
+          "text": "b) No keeping of food and drinks, only work related items.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "4. Record Books",
+      "questions": [
+        {
+          "id": 12,
+          "text": "a) Beauty consultation record or appointment book.",
+          "type": "yesno"
+        },
+        {
+          "id": 13,
+          "text": "b) Customer request book.",
+          "type": "radio",
+          "options": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "id": 14,
+          "text": "c) Machine calibration and maintenance record book.",
+          "type": "yesno"
+        }
+      ]
+    },
+    {
+      "title": "5. Beauty Consultation",
+      "questions": [
+        {
+          "id": 15,
+          "text": "a) Beauty machine kept in good, clean and tidy condition.",
+          "type": "yesno"
+        },
+        {
+          "id": 16,
+          "text": "b) Machine monthly calibration (pH and sebum), maintenance done and recorded.",
+          "type": "radio",
+          "options": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "id": 17,
+          "text": "c) Materials and consumables are sufficient and kept neatly in a container.",
+          "type": "yesno"
+        },
+        {
+          "id": 18,
+          "text": "d) Customer membership record maintained.",
+          "type": "yesno"
+        },
+        {
+          "id": 19,
+          "text": "e) Customer record complete:",
+          "type": "yesno",
+          "options": [
+            "i. Consent and declaration form",
+            "ii. Result form"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Beauty Advisor Behaviour",
+      "questions": [
+        {
+          "id": 20,
+          "text": "a) Aware of customer approaching counter and attends as soon as possible.",
+          "type": "yesno"
+        },
+        {
+          "id": 21,
+          "text": "b) Available on selling floor attending customer as much as possible.",
+          "type": "yesno"
+        }
+      ]
+    }
+  ]
+}
