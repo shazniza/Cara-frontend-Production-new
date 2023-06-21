@@ -35,7 +35,7 @@
       <li class="nav-item">
         <sidenav-collapse navText="SOP Archive" :to="{ name: 'Sop_archive' }">
           <template #icon>
-            <shop />
+            <fa-file-archive-o />
           </template>
         </sidenav-collapse>
       </li>
@@ -69,6 +69,13 @@
       </li>
       <li class="nav-item">
         <sidenav-collapse navText="Contact Us" :to="{ name: 'contact' }">
+          <template #icon>
+            <office />
+          </template>
+        </sidenav-collapse>
+      </li>
+      <li class="nav-item">
+        <sidenav-collapse navText="Change Password" :to="{ name: 'contact' }">
           <template #icon>
             <office />
           </template>

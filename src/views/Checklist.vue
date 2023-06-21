@@ -4,13 +4,27 @@
         <q-card-body class="text-center">
           <h4 class="text-center">Governance Checklist</h4>
           <div class="q-mt-md q-column">
-            <q-btn label="Security" color="primary" to="/Security" /> <br><br><br><br>
+          
+  <!-- Security dropdwon -->
+  <div class="q-pa-md">
+    <q-btn-dropdown
+      split
+      to="/start/pick-quasar-flavour"
+      color="teal"
+      rounded
+      label="Security"
+    >
+      <q-list>
+        <q-item to="/Security" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>Security Audit</q-item-label>
+          </q-item-section>
+        </q-item>
+      </q-list>
+    </q-btn-dropdown>
+  </div>
 
-
-  <!-- Wellness dopdwon -->
-         
-
-  <!-- Wellness dopdwon -->
+  <!-- Wellness dropdwon -->
   <div class="q-pa-md">
     <q-btn-dropdown
       split
@@ -22,7 +36,7 @@
       <q-list>
         <q-item to="/beauty_advisor" clickable v-close-popup>
           <q-item-section>
-            <q-item-label  >Beauty Advisor</q-item-label>
+            <q-item-label>Beauty Advisor</q-item-label>
           </q-item-section>
         </q-item>
 
@@ -53,11 +67,84 @@
     </q-btn-dropdown>
   </div>
 
+ <!-- QM dropdwon -->
+  <div class="q-pa-md">
+    <q-btn-dropdown
+      split
+      to="/start/pick-quasar-flavour"
+      color="teal"
+      rounded
+      label="Quality Management"
+    >
+      <q-list>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>Supplier Audit</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>QAA Audit</q-item-label>
+          </q-item-section>
+        </q-item>
+      </q-list>
+    </q-btn-dropdown>
+  </div>
 
-            <q-btn label="Quality Management" color="primary"  /><br><br><br><br>
-            <q-btn label="Safety" color="primary"  /><br><br><br><br>
-            <q-btn label="Product Quality" color="primary"  /><br><br><br><br>
-          </div>
+   <!-- Safety dropdwon -->
+   <div class="q-pa-md">
+    <q-btn-dropdown
+      split
+      to="/start/pick-quasar-flavour"
+      color="teal"
+      rounded
+      label="Safety"
+    >
+      <q-list>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>AEON Mall</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>AEON Store</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>AEON BIG</q-item-label>
+          </q-item-section>
+        </q-item>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>AEON FPC</q-item-label>
+          </q-item-section>
+        </q-item>
+      </q-list>
+    </q-btn-dropdown>
+  </div>
+
+   <!-- Safety dropdwon -->
+   <div class="q-pa-md">
+    <q-btn-dropdown
+      split
+      to="/start/pick-quasar-flavour"
+      color="teal"
+      rounded
+      label="Product Compliance"
+    >
+      <q-list>
+        <q-item to="/beauty_advisor" clickable v-close-popup>
+          <q-item-section>
+            <q-item-label>Product Compliance Audit</q-item-label>
+          </q-item-section>
+        </q-item>
+      </q-list>
+    </q-btn-dropdown>
+  </div>
+
+</div>
         </q-card-body>
       </q-card>
     </div>
